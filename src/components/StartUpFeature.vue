@@ -5,7 +5,7 @@
                 <router-link :to="'branding'" class="link-secret">
                     <div class="icon-box-wrap">
                         <div class="icon react" :class="{'java':iconbox.java, 'macos':iconbox.macos, 'window':iconbox.window, 'android':iconbox.android, 'php':iconbox.php}">
-                            <i :class="iconbox.icon"></i>
+                            <span :class="iconbox.icon" :data-icon="iconbox.data_icon"></span>
                         </div>
                         <div class="content">
                             <h6 class="heading">{{ iconbox.heading }}</h6>
@@ -24,32 +24,34 @@
             return {
                 iconboxs: [
                     {
-                        icon: 'fab fa-react', 
-                        heading: 'React Native'
+                        icon: 'iconify', 
+                        heading: 'C',
+                        data_icon: "mdi:language-c",
                     },
                     {
-                        icon: 'fab fa-microsoft', 
-                        heading: 'Windows', 
+                        icon: 'iconify', 
+                        heading: 'C++', 
+                        data_icon: "gg-c-plus-plus",
                         window:true
-                    },
-                    {
-                        icon: 'fab fa-apple', 
-                        heading: 'MacOS', 
-                        macos:true
                     },
                     {
                         icon: 'fab fa-java', 
                         heading: 'Java', 
+                        macos:true
+                    },
+                    {
+                        icon: 'fab fa-js', 
+                        heading: 'Javascript', 
                         java:true
                     },
                     {
-                        icon: 'fab fa-android', 
-                        heading: 'Android', 
+                        icon: 'fab fa-python', 
+                        heading: 'Python', 
                         android:true
                     },
                     {
-                        icon: 'fab fa-php', 
-                        heading: 'PHP', 
+                        icon: 'fab fa-r-project', 
+                        heading: 'R', 
                         php:true
                     },
                 ]

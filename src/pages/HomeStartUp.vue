@@ -41,8 +41,8 @@
         <div class="start-ups-feature" id="platform">
             <div class="container">
                 <div class="section-title text-center section-space--mb_60">
-                    <h2 class="font-weight--bold mb-15 wow move-up">Present over 50 platforms</h2>
-                    <span class="section-text wow move-up">We are present over a wide range of social media</span>
+                    <h2 class="font-weight--bold mb-15 wow move-up">Si te lo imaginas, nosotros lo programamos.</h2>
+                    <span class="section-text wow move-up">”Todos en el país deberían aprender a programar un ordenador... porque eso te enseña a pensar.”<br><span class="font-weight--bold">–Steve Jobs.</span></span>
                 </div>
                 <!-- start up feature component -->
                 <StartUpFeature />
@@ -50,11 +50,11 @@
         </div>
 
         <!-- call to action -->
-        <div class="ht-start-up-section-bg">
+        <!-- <div class="ht-start-up-section-bg">
             <div class="cta-image-area_one section-space--pt_60">
                 <CtaOne />
             </div>
-        </div>
+        </div> -->
 
         <!-- tab conetent section -->
         <div class="tabs-wrapper startup-tab section-space--mt_30 section-space--pb_120">
@@ -79,7 +79,7 @@
         </div>
 
         <!-- tab conetent section -->
-        <TabThree />
+        <!-- <TabThree /> -->
 
         <!-- brand carousel -->
         <CarouselStartup />
@@ -88,7 +88,7 @@
         <ContactForm />
 
         <!-- call to action  -->
-        <CtaFour />
+        <!-- <CtaFour /> -->
 
         <!-- footer section -->
         <FooterMain FooterStyle="bg_drak-footer" />
