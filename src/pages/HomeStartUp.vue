@@ -22,7 +22,7 @@
         <div class="start-ups-feature startup-about-feature section-space--pt_120 section-space--pb_60 " id="about">
             <div class="container">
                 <div class="section-title-wrapper text-center section-space--mb_60">
-                    <h2 class="section-title mb-30 wow move-up">We’ve created enticing designs for<br>startups and new businesses</h2>
+                    <h2 class="section-title mb-30 wow move-up">Nuestra experticia nos permite ser los<br>mejores en muchas areas</h2>
                     <div class="video-button-container video-popup">
                         <silentbox-single src="https://www.youtube.com/watch?v=9No-FiEInLA">
                             <div class="video-play">

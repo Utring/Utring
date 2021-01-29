@@ -25,34 +25,34 @@
             return {
                 items: [
                     {
-                       icon: require('../assets/img/icons/aeroland-startup-box-icon-01.png'), 
-                       heading: 'Web Development', 
-                       text: 'Consider this app a platform for connecting people from everywhere based on their preferences.'
+                       icon: require('../assets/img/icons/analysis.png'), 
+                       heading: 'Ciencia de datos', 
+                       text: 'Aplicación de Machine learning para detección de objetos y analitica de datos.'
                     },
                     {
-                        icon: require('../assets/img/icons/aeroland-startup-box-icon-02.png'), 
-                        heading: 'Social Media', 
-                        text: 'Consider this app a platform for connecting people from everywhere based on their preferences.'
+                        icon: require('../assets/img/icons/computer.png'), 
+                        heading: 'Desarrollo de apliaciones', 
+                        text: 'Desarrollo de aplicaciones web, nativas, hibridas, PWA.'
                     },
                     {
-                        icon: require('../assets/img/icons/aeroland-startup-box-icon-03.png'), 
-                        heading: 'SEO Marketing', 
-                        text: 'Consider this app a platform for connecting people from everywhere based on their preferences.'
+                        icon: require('../assets/img/icons/api.png'), 
+                        heading: 'Desarrollo de APIs y SDKs', 
+                        text: 'Creación de librerias, interfaces de aplicaciones y kits de desarrollo para desarrolladores de software.'
                     },
                     {
-                        icon: require('../assets/img/icons/aeroland-startup-box-icon-04.png'), 
-                        heading: 'Keyword Search', 
-                        text: 'Consider this app a platform for connecting people from everywhere based on their preferences.'
+                        icon: require('../assets/img/icons/video.png'), 
+                        heading: 'Video Streaming', 
+                        text: 'Soluciones en manipulación y transmisión de video en vivo usando tecnologias como WebRTC, RTSP, HLS, RTMP, OPENCV, FFmpeg, GStreamer, etc.'
                     },
                     {
-                        icon: require('../assets/img/icons/aeroland-startup-box-icon-05.png'), 
-                        heading: 'Email Optimization', 
-                        text: 'Consider this app a platform for connecting people from everywhere based on their preferences.'
+                        icon: require('../assets/img/icons/cpu.png'), 
+                        heading: 'Programación de microcontroladores', 
+                        text: 'Desarrollo en sistemas embebidos usando Mbed, STM32, Arduino, ROS, RTOS, etc.'
                     },
                     {
-                        icon: require('../assets/img/icons/aeroland-startup-box-icon-06.png'), 
-                        heading: 'Web Design', 
-                        text: 'Consider this app a platform for connecting people from everywhere based on their preferences.'
+                        icon: require('../assets/img/icons/pdf.png'), 
+                        heading: 'Manejo y automatización de PDFs', 
+                        text: 'Automatización en los procesos de extracción de información, firma y rellenado de archivos PDFs.'
                     },
                 ]
             }
