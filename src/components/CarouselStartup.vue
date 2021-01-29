@@ -4,8 +4,8 @@
             <div class="row">
                 <div class="col-12">
                     <div class="section-title text-center section-space--mb_30">
-                        <h2 class="font-weight--bold mb-15 wow move-up">A reliable top-rated company</h2>
-                        <span class="section-text wow move-up">We deliver the best services for app design and coding</span>
+                        <h2 class="font-weight--bold mb-15 wow move-up">Una empresa confiable de primera</h2>
+                        <span class="section-text wow move-up">Brindamos los mejores servicios para el diseño y codificación de aplicaciones.</span>
                     </div>
                 </div>
             </div>
