@@ -4,28 +4,28 @@
             <div class="row">
                 <div class="col-lg-7 order-2 order-lg-1">
                     <div class="section-title text-left section-space--mb_60">
-                        <h2 class="font-weight--bold mb-15 wow move-up">Let’s cooperate!</h2>
-                        <span class="section-text_left wow move-up">Let’s become partners to build a better future for today.</span>
+                        <h2 class="font-weight--bold mb-15 wow move-up">¡Cooperemos!</h2>
+                        <span class="section-text_left wow move-up">Seamos socios para construir un mejor futuro.</span>
                     </div>
                     <div class="contact-from-wrapper wow move-up">
                         <form id="contact-form" action="http://hasthemes.com/file/mail.php" method="post">
                             <div class="contact-page-form">
                                 <div class="contact-input">
                                     <div class="contact-inner">
-                                        <input name="con_name" type="text" placeholder="Name *">
+                                        <input name="con_name" type="text" placeholder="Nombre *">
                                     </div>
                                     <div class="contact-inner">
                                         <input name="con_email" type="email" placeholder="Email *">
                                     </div>
                                 </div>
                                 <div class="contact-inner">
-                                    <input name="con_subject" type="text" placeholder="Subject *">
+                                    <input name="con_subject" type="text" placeholder="Asunto *">
                                 </div>
                                 <div class="contact-inner contact-message">
-                                    <textarea name="con_message" placeholder="Message *"></textarea>
+                                    <textarea name="con_message" placeholder="Mensaje *"></textarea>
                                 </div>
                                 <div class="contact-submit-btn">
-                                    <button class="ht-btn ht-btn-md" type="submit">Send message</button>
+                                    <button class="ht-btn ht-btn-md" type="submit">Enviar mensaje</button>
                                     <p class="form-messege"></p>
                                 </div>
                             </div>

@@ -4,20 +4,20 @@
             <div class="row hero-startup">
                 <div class="col-md-6">
                     <div class="hero-content">
-                        <h2 class="h1 hero-content-title">Get Your Sites <br> A Kickstart Now!</h2>
-                        <h6 class="hero-content-subtitle mt-20">There’s no need to be a technical professional to create sites with AeroLand. With simple guides, everything is easy!</h6>
+                        <h2 class="h1 hero-content-title">Developing Impact</h2>
+                        <h6 class="hero-content-subtitle mt-20">Somos una empresa de consultoría de software que diseña, desarrolla e implementa soluciones de software personalizadas para organizaciones que desean generar un impacto a través de la tecnología.</h6>
                         <div class="slider-button mt-30">
-                            <router-link to="" class="btn btn--green">Get Started</router-link>
+                            <router-link to="" class="btn btn--purple">Empieza!</router-link>
                             <h6 class="sub-heading">
-                                Questions? 
-                                <router-link to="" class="hover-style-link hover-style-link--green">Talk to our team</router-link>
+                                Tienes inquietudes? 
+                                <router-link to="" class="hover-style-link hover-style-link--green">Consulta con nuestro equipo de trabajo</router-link>
                             </h6>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 align-self-end">
                     <div class="startup-thumb">
-                        <img src="../assets/img/hero/startup/startup-thumb.png" class="img-fluid" alt="startup-thumb">
+                        <img src="../assets/img/hero/startup/startup-thumb-2.png" class="img-fluid" alt="startup-thumb">
                     </div>
                 </div>
             </div>
@@ -30,7 +30,7 @@
         data (){
             return {
                 bgImg: {
-                    backgroundImage: `url(${require('../assets/img/hero/startup/startup-bg.jpg')})`
+                    backgroundImage: `url(${require('../assets/img/hero/startup/startup-bg-2.png')})`
                 },
             }
         }
