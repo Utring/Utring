@@ -17,8 +17,7 @@
                 </div>
                 <div class="col-md-6 align-self-end">
                     <div class="startup-thumb">
-                        <img src="../assets/img/hero/startup/startup-thumb-2.png" class="img-fluid" alt="startup-thumb">
-                    </div>
+<lottie-player src="https://assets6.lottiefiles.com/private_files/lf30_WdTEui.json"  background="transparent"  speed="1"  loop  autoplay></lottie-player>                    </div>
                 </div>
             </div>
         </div>
