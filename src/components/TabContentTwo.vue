@@ -8,13 +8,13 @@
             </div>
             <div class="col-lg-5">
                 <div class="tab-content-inner">
-                    <h4 class="font-weight--light" style="">The best ways<br>to create websites</h4>
-                    <p class="dec section-space--mt_40 section-space--mb_40">We bring on like-minded and talented members to help you grow a stronger business for fiercely reaching towards higher goals every day. </p>
+                    <h4 class="font-weight--light" style="">Creamos soluciones flexibles para todas sus necesidades en Software</h4>
+                    <p class="dec section-space--mt_40 section-space--mb_40">Traemos miembros talentosos y de ideas afines para ayudarlo a hacer crecer un negocio más sólido para alcanzar ferozmente metas más altas todos los días. </p>
                     <div class="tab-button section-space--mb_40">
-                        <router-link to="/" class="ht-btn ht-btn-md">Learn more</router-link>
+                        <router-link to="/" class="ht-btn ht-btn-md">Más Información</router-link>
                     </div>
-                    <h6 class="sub-heading">What’s next in AeroLand? 
-                        <router-link to="/" class="hover-style-link hover-style-link--green">Learn more</router-link>
+                    <h6 class="sub-heading">¿Qué es lo siguiente en Utring? 
+                        <router-link to="/" class="hover-style-link hover-style-link--green">Aprende más.</router-link>
                     </h6>
                 </div>
             </div>

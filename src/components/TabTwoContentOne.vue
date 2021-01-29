@@ -8,7 +8,7 @@
             </div>
             <div class="col-lg-5">
                 <div class="tab-content-inner">
-                    <div class="heading mb-30">Meeting all of your requirements for SEO &amp; branding</div>
+                    <div class="heading mb-30">Cumpliendo con todos sus requisitos de SEO y branding</div>
                     <ul class="check-list green-check-list section-space--mb_50">
                         <li class="list-item">Receive real-time business analytics </li>
                         <li class="list-item">Cross-browser Compatible Design </li>

@@ -62,7 +62,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="section-title-wrapper text-center section-space--mb_60 wow move-up">
-                            <h2 class="section-title font-weight--bold mb-15">We design powerful websites for <br> landing your success.</h2>
+                            <h2 class="section-title font-weight--bold mb-15">Diseñamos Sitios WEB para alcanzar el éxito.</h2>
                         </div>
                     </div>
                 </div>

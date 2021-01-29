@@ -1,15 +1,15 @@
 <template>
     <div class="ht-tab-wrap">
         <b-tabs class="ht-tab-menu wow move-up">
-            <b-tab title="Featured" active>
+            <b-tab title="Destacados" active>
                 <!-- tab content one component -->
                 <TabContentOne />  
             </b-tab>
-            <b-tab title="Our mission">
+            <b-tab title="Nuestra Misión">
                 <!-- tab content two component -->
                 <TabContentTwo /> 
             </b-tab>
-            <b-tab title="New Friendly Support">
+            <b-tab title="Nuestro apoyo amistoso">
                 <!-- tab content third component -->
                 <TabContentThree /> 
             </b-tab>

@@ -8,18 +8,18 @@
             </div>
             <div class="col-lg-5">
                 <div class="tab-content-inner">
-                    <div class="heading mb-30">Meeting all of your requirements for SEO &amp; branding</div>
+                    <div class="heading mb-30"> Cumpliendo con todos sus requisitos de SEO y Branding</div>
                     <ul class="check-list green-check-list section-space--mb_50">
-                        <li class="list-item">Receive real-time business analytics </li>
-                        <li class="list-item">Cross-browser Compatible Design </li>
-                        <li class="list-item">Completely Gutenberg Ready </li>
-                        <li class="list-item">Highly Responsive Tools </li>
+                        <li class="list-item">Reciba análisis de negocios en tiempo real </li>
+                        <li class="list-item">Diseño compatible con varios navegadores </li>
+                        <!-- <li class="list-item">Completamente listo para Gutenberg </li> -->
+                        <li class="list-item">Herramientas de gran capacidad de respuesta </li>
                     </ul>
                     <div class="tab-button mb-30">
-                        <button class="ht-btn ht-btn-md">Learn more </button>
+                        <button class="ht-btn ht-btn-md">Aprende más </button>
                     </div>
-                    <h6 class="sub-heading">What’s next in AeroLand? 
-                        <router-link to="/" class="hover-style-link hover-style-link--green">Learn more</router-link>
+                    <h6 class="sub-heading">¿Qué sigue en Utring? 
+                        <router-link to="/" class="hover-style-link hover-style-link--green">Más Información </router-link>
                     </h6>
                 </div>
             </div>
