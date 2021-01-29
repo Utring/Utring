@@ -16,10 +16,10 @@
                                 <a href="mailto:contact@aeroland.com" class="hover-style-link">contacto@utring.com</a>
                             </li>
                             <li>
-                                <a href="tel:(+57)3043450234" class="hover-style-link">(+57)300 0000000</a>
+                                <a href="tel:(+57)3043450234" class="hover-style-link">(+57)3043450234</a>
                             </li>
                             <li>
-                                <a href="www.utring.com" target="_blank" class="hover-style-link hover-style-link--green">www.website.com</a>
+                                <a href="www.utring.com" target="_blank" class="hover-style-link hover-style-link--green">www.utring.com</a>
                             </li>
                         </ul>
                     </div>
