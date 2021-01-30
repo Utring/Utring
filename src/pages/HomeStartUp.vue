@@ -38,7 +38,7 @@
         </div>
 
         <!-- start up feature -->
-        <div class="start-ups-feature" id="platform">
+        <div style="padding-bottom: 5%;" class="start-ups-feature" id="platform">
             <div class="container">
                 <div class="section-title text-center section-space--mb_60">
                     <h2 class="font-weight--bold mb-15 wow move-up">Si te lo imaginas, nosotros lo programamos.</h2>
@@ -57,7 +57,7 @@
         </div> -->
 
         <!-- tab conetent section -->
-        <div class="tabs-wrapper startup-tab section-space--mt_30 section-space--pb_120">
+        <!-- <div class="tabs-wrapper startup-tab section-space--mt_30 section-space--pb_120">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -66,10 +66,9 @@
                         </div>
                     </div>
                 </div>
-                <!-- tab components -->
                <TabOne />
             </div>
-        </div>
+        </div> -->
 
         <!-- team component -->
         <div class="team-member-wrapper section-space--ptb_120 default-bg" id="team">
