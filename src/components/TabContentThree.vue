@@ -11,14 +11,14 @@
                     <div class="ht-service-box--three mb-40">
                         <div class="service-box-wrap text-left">
                             <div class="image__media">
-                                <img src="../assets/img/icons/aeroland-tab-content-image-icon-01.png" class="img-fluid" alt="aeroland-payment-box-icon-01">
+                                <img src="../assets/img/icons/aeroland-tab-content-image-icon-03.png" class="img-fluid" alt="aeroland-payment-box-icon-01" width="110">
                             </div>
                             <div class="content">
-                                <h6 class="sub-heading mb-10 text-uppercase">Hotline</h6>
+                                <h6 class="sub-heading mb-10 text-uppercase">Whatsapp</h6>
                                 <h4 class="heading">
-                                    <a href="tel:01228899900">0122 8899900</a>
+                                    <a href="tel:01228899900">(+57) 300 0000000</a>
                                 </h4>
-                                <div class="service_text">24/7 phone and email support</div>
+                                <div class="service_text">24/7 soporte en telefonía y correo electrónico</div>
                             </div>
                         </div>
                     </div>
@@ -28,11 +28,11 @@
                                 <img src="../assets/img/icons/aeroland-tab-content-image-icon-02.png" class="img-fluid" alt="aeroland-payment-box-icon-01">
                             </div>
                             <div class="content">
-                                <h6 class="sub-heading mb-10 text-uppercase">Give your Feedback</h6>
+                                <h6 class="sub-heading mb-10 text-uppercase">Danos tu opinión</h6>
                                 <h4 class="heading">
-                                    <a href="mailto:hello@seopro.com">hello@seopro.com</a>
+                                    <a href="mailto:hello@seopro.com">hello@utring.com</a>
                                 </h4>
-                                <div class="service_text">24/7 phone and email support</div>
+                                <div class="service_text">24/7 soporte en telefonía y correo electrónico</div>
                             </div>
                         </div>
                     </div>
