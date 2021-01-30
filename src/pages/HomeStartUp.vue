@@ -50,14 +50,14 @@
         </div>
 
         <!-- call to action -->
-        <!-- <div class="ht-start-up-section-bg">
+        <div class="ht-start-up-section-bg">
             <div class="cta-image-area_one section-space--pt_60">
                 <CtaOne />
             </div>
-        </div> -->
+        </div>
 
         <!-- tab conetent section -->
-        <!-- <div class="tabs-wrapper startup-tab section-space--mt_30 section-space--pb_120">
+        <div class="tabs-wrapper startup-tab section-space--mt_30 section-space--pb_120">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -68,7 +68,7 @@
                 </div>
                <TabOne />
             </div>
-        </div> -->
+        </div>
 
         <!-- team component -->
         <div class="team-member-wrapper section-space--ptb_120 default-bg" id="team">
