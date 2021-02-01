@@ -73,6 +73,7 @@ export default {
       text: null,
       isLoading: false,
       fullPage: true,
+      showModal: true,
     };
   },
   components: {
@@ -81,6 +82,13 @@ export default {
   methods: {
     onCancel() {
       console.log("User cancelled the loader.");
+    },
+    clear() {
+      this.name = "";
+      this.email = "";
+      this.subject = "";
+      this.text = "";
+      this.showModal = false;
     },
     submitForm() {
       let data = {
@@ -95,11 +103,15 @@ export default {
         .post("https://utring.herokuapp.com/api/send-email", data)
         .then((response) => {
           console.log(response);
+          this.clear();
           this.isLoading = false;
+          this.showModal = true;
         })
         .catch((error) => {
           console.error(error);
+          this.clear();
           this.isLoading = false;
+          this.showModal = true;
         });
       this.name = "";
       this.email = "";
