@@ -49,12 +49,19 @@
         </div>
       </div>
     </div>
+    <loading
+      :active.sync="isLoading"
+      :can-cancel="true"
+      :on-cancel="onCancel"
+      :is-full-page="fullPage"
+    ></loading>
   </div>
 </template>
 
 <script>
-
-const axios = require("axios");
+import Loading from "vue-loading-overlay";
+import axios from "axios";
+import "vue-loading-overlay/dist/vue-loading.css";
 
 export default {
   name: "ContactForm",
@@ -64,9 +71,17 @@ export default {
       email: null,
       subject: null,
       text: null,
+      isLoading: false,
+      fullPage: true,
     };
   },
+  components: {
+    Loading,
+  },
   methods: {
+    onCancel() {
+      console.log("User cancelled the loader.");
+    },
     submitForm() {
       let data = {
         name: this.name,
@@ -75,16 +90,16 @@ export default {
         text: this.text,
       };
       console.log(data);
+      this.isLoading = true;
       axios
         .post("https://utring.herokuapp.com/api/send-email", data)
         .then((response) => {
-          // console.log(response);
-          // this.response = response.data
-          this.success = "Data saved successfully";
-          this.response = JSON.stringify(response, null, 2);
+          console.log(response);
+          this.isLoading = false;
         })
         .catch((error) => {
-          this.response = "Error: " + error.response.status;
+          console.error(error);
+          this.isLoading = false;
         });
       this.name = "";
       this.email = "";
