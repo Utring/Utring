@@ -76,7 +76,7 @@ export default {
       };
       console.log(data);
       axios
-        .post("http://utring.herokuapp.com/api/send-email", data)
+        .post("https://utring.herokuapp.com/api/send-email", data)
         .then((response) => {
           // console.log(response);
           // this.response = response.data
