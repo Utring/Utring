@@ -16,7 +16,7 @@
                             <div class="content">
                                 <h6 class="sub-heading mb-10 text-uppercase">Whatsapp</h6>
                                 <h4 class="heading">
-                                    <a href="tel:01228899900">(+57) 300 0000000</a>
+                                    <a href="https://wa.me/573043450234" target="_blank">(+57) 304 3450234</a>
                                 </h4>
                                 <div class="service_text">24/7 soporte en telefonía y correo electrónico</div>
                             </div>
@@ -30,7 +30,7 @@
                             <div class="content">
                                 <h6 class="sub-heading mb-10 text-uppercase">Danos tu opinión</h6>
                                 <h4 class="heading">
-                                    <a href="mailto:hello@seopro.com">hello@utring.com</a>
+                                    <a href="mailto:contacto@utring.com">contacto@utring.com</a>
                                 </h4>
                                 <div class="service_text">24/7 soporte en telefonía y correo electrónico</div>
                             </div>

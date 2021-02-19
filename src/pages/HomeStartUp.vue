@@ -57,18 +57,19 @@
         </div> -->
 
         <!-- tab conetent section -->
-        <!-- <div class="tabs-wrapper startup-tab section-space--mt_30 section-space--pb_120">
+        <div class="tabs-wrapper startup-tab section-space--mt_30 section-space--pb_120">
             <div class="container">
-                <div class="row">
+                <!-- <div class="row">
                     <div class="col-lg-12">
                         <div class="section-title-wrapper text-center section-space--mb_60 wow move-up">
                             <h2 class="section-title font-weight--bold mb-15">Diseñamos Sitios WEB para alcanzar el éxito.</h2>
                         </div>
                     </div>
-                </div>
-               <TabOne />
+                </div> -->
+              <TabOne />
             </div>
-        </div> -->
+        </div>
+         
 
         <!-- team component -->
         <div class="team-member-wrapper section-space--ptb_120 default-bg" id="team">
