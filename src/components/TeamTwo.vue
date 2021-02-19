@@ -131,7 +131,7 @@
                             <div class="ht-team-member text-center">
                                 <div class="ht-team-member--inner">
                                     <div class="team-image">
-                                        <img class="img-fluid" src="https://media-exp1.licdn.com/dms/image/C4E03AQFb8gWcj62ppg/profile-displayphoto-shrink_200_200/0/1611848444522?e=1617235200&v=beta&t=3jDHQeCnTaaAnnbp2XdPa_qZvAOOYRyeL85rrsoSfzg" alt="avatar 04" width="150">
+                                        <img class="img-fluid" src="https://media-exp1.licdn.com/dms/image/C5603AQHuvuPn08qyqg/profile-displayphoto-shrink_200_200/0/1613702431288?e=1619049600&v=beta&t=kqyhyuZUcrnwWXX1XEXiW7eNXopdDu_UhrYg1fnrTjc" alt="avatar 04" width="150">
                                     </div>
                                     <div class="team-info text-center">
                                         <h5 class="name">Diego Calderon</h5>
