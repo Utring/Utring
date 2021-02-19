@@ -17,7 +17,7 @@
                 </div>
                 <div class="col-md-6 align-self-end">
                     <div class="startup-thumb">
-<lottie-player src="https://assets6.lottiefiles.com/private_files/lf30_WdTEui.json"  background="transparent"  speed="1"  loop  autoplay></lottie-player>                    </div>
+<lottie-player src="https://assets6.lottiefiles.com/private_files/lf30_WdTEui.json"  background="transparent"  speed="1"  style="width: 600px; height: 600px; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges;" loop  autoplay></lottie-player>                    </div>
                 </div>
             </div>
         </div>
